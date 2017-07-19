@@ -25,5 +25,5 @@ Thumbs.db
 # Compiled Python files
 *.pyc
 
-# MATLAB Temporary Files
+# MATLAB temporary files
 *.m~
