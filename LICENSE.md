@@ -1,3 +1,9 @@
+# License
+
+This file contains the license terms that govern the use of this repository.
+
+## Example - MIT License
+
 MIT License
 
 Copyright (c) Zachary T. Harmany, 2017 
